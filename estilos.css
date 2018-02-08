@@ -5,3 +5,7 @@ header.encabezado-principal {
 header h1 {
     color: #fff;
 }
+
+h2.subtitulo {
+    font-size: 22px;
+}
